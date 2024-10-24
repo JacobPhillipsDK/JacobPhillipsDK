@@ -1,6 +1,7 @@
-<h2 align="left">Hi 👋! My name is Jacob, and I'm a Software Developer from Denmark. I love working on web applications, automation, and network solutions, especially using Python and Rust. In my free time, I enjoy building Raspberry Pi projects, solving LeetCode challenges, and working on personal coding projects.</h2>
+<h2 align="left">Hi 👋! My name is Jacob, and I'm a Software Developer from Denmark.</h2>
 
 ###
+<p>I love working on web applications, automation, and network solutions, especially using Python and Rust. In my free time, I enjoy building Raspberry Pi projects, solving LeetCode challenges, and working on personal coding projects.</p>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/c2/34/ba/c234babb3445ee509569b656ada08cef.gif"  />
 
